@@ -3,7 +3,7 @@
 
 Download software folder and install below version:
 
-- XAMPP/PHP - v7.4.26
+- XAMPP/PHP - v8.1.12
 - Composer - v2.1.14
 - npm - v9.5.0
 - Node.js - v18.15.0
